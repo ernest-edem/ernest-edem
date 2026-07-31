@@ -11,6 +11,6 @@ My current focus areas include:
 - Python Development
 - Data Analysis
 - Artificial Intelligence
-- Backend Development
+- Full Stack Development
 - Explainable AI
 -->

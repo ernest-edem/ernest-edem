@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**ernest-edem/ernest-edem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Computer Science student and aspiring Machine Learning Engineer with a strong interest in Artificial Intelligence, Data Science, and Software Engineering.
 
-Here are some ideas to get you started:
+I enjoy building end-to-end machine learning systems, solving real-world problems with data, and continuously improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My current focus areas include:
+
+- Machine Learning
+- Python Development
+- Data Analysis
+- Artificial Intelligence
+- Backend Development
+- Explainable AI
 -->

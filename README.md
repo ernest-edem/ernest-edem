@@ -4,7 +4,7 @@
 
 
 ## Hi, I am Ernest Edem
-**I'm a Computer Science and Engineering student and aspiring Software and AI/Machine Learning Engineer with a strong interest in Artificial Intelligence, Data Science, and Full Stack Development.
+I'm a Computer Science and Engineering student and aspiring Software and AI/Machine Learning Engineer with a strong interest in Artificial Intelligence, Data Science, and Full Stack Development.
 
 I enjoy building end-to-end machine learning systems, solving real-world problems with data, and continuously improving my software development, ML and full tack development skills.
 

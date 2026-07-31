@@ -1,74 +1,128 @@
 <p align="center">
-  <img src="assets/ernest-edem.png" width="100%">
+  <img src="assets/ernest-edem.png" width="100%" alt="Ernest Edem Banner">
 </p>
 
+# Hi there, I'm Ernest Edem 👋
 
-## Hi, I am Ernest Edem
-I'm a Computer Science and Engineering student and aspiring Software and AI/Machine Learning Engineer with a strong interest in Artificial Intelligence, Data Science, and Full Stack Development.
+**Computer Science & Engineering Student | Aspiring Software Engineer | AI & Machine Learning Engineer**
 
-I enjoy building end-to-end machine learning systems, solving real-world problems with data, and continuously improving my software development, ML and full tack development skills.
+I'm passionate about designing intelligent software solutions that solve real-world problems. My interests span **Software Engineering**, **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**.
 
-My current focus areas include:
-- Machine Learning
-- Python Development
-- Data Analysis
-- Artificial Intelligence
-- Full Stack Development
-- Explainable AI
+I enjoy building end-to-end machine learning applications—from data preprocessing and model training to deployment-ready architectures—while continuously improving my software engineering skills through hands-on projects.
 
-## Tech Stack
+---
+
+## 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 🐍 Python Development
+- 🌐 Full-Stack Development
+- 📊 Data Analysis
+- 🔍 Explainable AI (XAI)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- Python
+- C++ (Fundamentals)
+- HTML
+- CSS
+
+### Machine Learning & Data Science
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+### Tools
+
+- Git
+- GitHub
+- Figma
+- VS Code
+
+---
+
+## 💼 Additional Skills
+
+- Graphic Design (CorelDRAW, Adobe Photoshop)
+- UI/UX Design (Figma)
+- Web Design (Drupal CMS)
+- Photography
+
+---
+
+# 📌 Featured Project
+
+## ❤️ Heart Disease Prediction using Machine Learning
+
+A production-ready machine learning project that predicts the likelihood of heart disease using patient clinical data.
+
+### Technologies
+
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
-- GitHub
-- C++ fundamental
-
-## Skills
-- Graphic Design (CorelDraw, Photoshop)
-- Web Design (Drupal, HTML, CSS)
-- UI/UX (Figma)
-- Photography
-
-## Featured Projects
-### ❤️ Heart Disease Prediction using Machine Learning
-An end-to-end machine learning pipeline for predicting heart disease using patient clinical data.
-
-Technologies:
-- Python
-- Pandas
-- Scikit-learn
 - Joblib
-- Matplotlib
 
-Highlights:
-- Modular architecture
-- Multiple ML models
-- Automated reports
+### Highlights
+
+- Modular project architecture
+- Data preprocessing pipeline
+- Feature engineering
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Model evaluation
+- Automated report generation
 - Data visualization
-- Patient prediction
+- New patient prediction
+- Model persistence with Joblib
 
-Repository:
-https://github.com/ernest-edem/heart_disease_prediction
+### Repository
 
-## Currently Learning
+👉 https://github.com/ernest-edem/heart_disease_prediction
+
+---
+
+# 📚 Currently Learning
+
 - Machine Learning
 - Deep Learning
+- Natural Language Processin
+- Computer Vision
+- Generative AI & AI Agents
 - FastAPI
 - Docker
 - MLOps
 - Cloud Deployment
+- System Design
 
-## Connect with Me
-LinkedIn:
+---
+
+# 🎯 Career Goal
+
+I'm actively building practical software engineering and machine learning projects while preparing for **Software Engineering**, **AI/ML Engineering**, and **Data Science** internship opportunities worldwide.
+
+---
+
+# 📫 Connect With Me
+
+**LinkedIn**
+
 https://www.linkedin.com/in/ernest-edem-dzisah
 
-GitHub:
+**GitHub**
+
 https://github.com/ernest-edem
 
-Email:
+**Email**
+
 ernestedem.d@gmail.com
-
-
-

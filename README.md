@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/ernest-edem.png" width="100%">
+</p>
+
+
 ## Hi there 👋
 
 <!--

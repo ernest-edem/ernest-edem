@@ -6,7 +6,7 @@
 
 ### Computer Science & Engineering Student | Software Engineering | AI/ML Engineering
 
-I'm a Computer Science & Engineering student at Desh Bhagat University, focused on building practical software systems and intelligent applications.
+I'm a Computer Science & Engineering student at Desh Bhagat University, expected to complete my degree in 2028. I focus on building practical software systems and intelligent applications.
 
 My interests include **Software Engineering, Machine Learning, Artificial Intelligence, Explainable AI, Full-Stack Development, and Machine Learning Engineering**.
 
@@ -36,6 +36,7 @@ I enjoy taking projects from data and model development through API design, fron
 * JavaScript
 * HTML
 * CSS
+* Java fundamentals
 
 ### Machine Learning & Data Science
 
@@ -43,6 +44,7 @@ I enjoy taking projects from data and model development through API design, fron
 * Pandas
 * NumPy
 * SHAP
+* Matplotlib
 * Model evaluation
 * Cross-validation
 * Feature preprocessing
@@ -61,30 +63,31 @@ I enjoy taking projects from data and model development through API design, fron
 * React
 * Vite
 * Tailwind CSS
-* JavaScript
+* Recharts
+* Lucide React
 * Figma
 
-### Databases & Authentication
+### Authentication & Development
 
-* Supabase
-* Supabase Authentication
-
-### Development & Deployment
-
+* Firebase Authentication
 * Git
 * GitHub
-* Docker
-* Docker Compose
 * pytest
 * VS Code
+
+### Deployment
+
+* Docker
+* Docker Compose
+* Render
 
 ### Design & Web
 
 * Drupal
 * UI/UX Design
-* Figma
 * CorelDRAW
 * Adobe Photoshop
+* Photography
 
 ---
 
@@ -92,26 +95,56 @@ I enjoy taking projects from data and model development through API design, fron
 
 ### 🫀 LAMESE AI
 
-**Explainable Machine Learning-Based Heart Disease Prediction System**
+**Explainable Full-Stack Machine Learning System for Heart Disease Prediction**
 
-A full-stack AI application that combines machine learning, a FastAPI backend, React frontend, authentication, probability-based prediction, threshold classification, and SHAP explainability.
+LAMESE AI is a production-deployed machine learning application that combines a persisted Random Forest pipeline with a FastAPI backend, React frontend, Firebase Authentication, configurable probability thresholding, and SHAP-based explainability.
 
 **Highlights:**
 
-* End-to-end ML application architecture
+* End-to-end machine learning application architecture
 * Random Forest classification
-* Preprocessing pipeline with categorical encoding
+* Preprocessing and categorical encoding
 * Model evaluation and cross-validation
-* Recall-oriented prediction threshold
+* Configurable probability threshold
 * SHAP-based explainability
 * FastAPI prediction API
 * React frontend
-* Supabase authentication
+* Firebase Authentication
 * Dockerized backend
-* Automated backend testing
-* Production build verification
+* Automated backend and frontend testing
+* GitHub Actions CI
+* Production deployment on Render
 
-🔗 Repository: [LAMESE AI](https://github.com/ernest-edem/lamese-ai)
+**Live application:** https://lamese-ai.onrender.com
+
+**Repository:** https://github.com/ernest-edem/lamese-ai
+
+---
+
+### 📊 Customer Churn Analysis and Prediction
+
+**Configuration-Driven Machine Learning System**
+
+A machine learning system developed as part of the **Saiket Systems Machine Learning Internship**. The project combines a reusable ML workflow with a FastAPI prediction API and React web application.
+
+**Highlights:**
+
+* Configuration-driven ML architecture
+* Data validation and preprocessing
+* Feature selection
+* Model benchmarking
+* Stratified cross-validation
+* Model persistence
+* FastAPI prediction API
+* React frontend
+* Automated testing
+* GitHub Actions
+* Docker
+* Production deployment on Render
+
+**Live application:** https://customer-churn-ml-1-j47f.onrender.com
+
+**Repository:** https://github.com/ernest-edem/customer-churn-ml
 
 ---
 
@@ -129,7 +162,7 @@ An explainable AI project focused on behavioral and lifestyle factors associated
 * Model artifacts
 * AI application architecture
 
-🔗 Repository: [BehaviorLens AI](https://github.com/ernest-edem/behaviorlens-ai)
+**Repository:** https://github.com/ernest-edem/behaviour-ai
 
 ---
 
@@ -137,7 +170,7 @@ An explainable AI project focused on behavioral and lifestyle factors associated
 
 An earlier machine learning project focused on predicting heart disease using clinical data and comparing supervised classification algorithms.
 
-The project helped establish my foundation in:
+The project helped strengthen my foundation in:
 
 * Data preprocessing
 * Feature engineering
@@ -147,11 +180,33 @@ The project helped establish my foundation in:
 * Model persistence
 * Data visualization
 
-🔗 Repository: [heart_disease_prediction](https://github.com/ernest-edem/heart_disease_prediction)
+**Repository:** https://github.com/ernest-edem/heart_disease_prediction
 
 ---
 
-## 📚 What I'm Learning
+## 📚 What I've Learned
+
+Through my projects and coursework, I have developed practical experience in:
+
+* Designing modular machine learning systems
+* Data cleaning and validation
+* Numerical and categorical preprocessing
+* Feature engineering and feature selection
+* Model training and benchmarking
+* Cross-validation and evaluation
+* Model persistence and inference
+* Building REST APIs with FastAPI
+* Connecting machine learning backends to React applications
+* Authentication with Firebase
+* Explainable AI with SHAP
+* Docker-based application deployment
+* Automated testing and CI with GitHub Actions
+* Git and GitHub workflows
+* Technical documentation and project organization
+
+---
+
+## 📖 What I'm Learning Now
 
 I'm currently developing deeper skills in:
 
@@ -162,8 +217,7 @@ I'm currently developing deeper skills in:
 * Production ML workflows
 * FastAPI and backend engineering
 * React and full-stack development
-* Docker and deployment
-* Testing and software quality
+* Docker and cloud deployment
 * MLOps concepts
 * Responsible AI
 * AI research and applied machine learning
@@ -172,7 +226,7 @@ I'm currently developing deeper skills in:
 
 ## 🔬 Research Interests
 
-I'm particularly interested in applying AI and machine learning to real-world problems, with an emphasis on:
+I'm interested in applying AI and machine learning to real-world problems, particularly:
 
 * Explainable AI
 * Healthcare AI
@@ -196,13 +250,17 @@ I value software that is:
 * Easy to understand
 * Designed around real-world use cases
 
-I prefer building complete systems rather than isolated models, connecting **data → model → API → frontend → user experience → deployment**.
+I prefer building complete systems rather than isolated models, connecting:
+
+**Data → Model → API → Frontend → User Experience → Deployment**
 
 ---
 
 ## 🎨 Beyond Software Engineering
 
-My technical journey also includes a background in:
+My technical journey also includes more than software and machine learning.
+
+I have experience in:
 
 * Web design and development
 * Drupal development
@@ -211,7 +269,7 @@ My technical journey also includes a background in:
 * Digital content
 * Photography
 
-These experiences influence how I approach software: I care about both **how a system works and how people experience it**.
+These experiences influence how I approach software. I care about both **how a system works and how people experience it**.
 
 ---
 
@@ -230,30 +288,32 @@ I'm particularly interested in opportunities where software engineering and mach
 
 ---
 
-## 📊 GitHub Activity
+## 🎓 Education
 
-I use GitHub to document my learning, build practical projects, experiment with new technologies, and develop software engineering practices through real implementations.
+**Desh Bhagat University**
+
+Computer Science & Engineering
+
+Expected completion: **2028**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working in software engineering, artificial intelligence, machine learning, research, and technology.
+I'm interested in connecting with people working in software engineering, artificial intelligence, machine learning, research, and technology.
 
-**LinkedIn:**
-[linkedin.com/in/ernest-edem-dzisah](https://www.linkedin.com/in/ernest-edem-dzisah)
+**GitHub:** https://github.com/ernest-edem
 
-**GitHub:**
-[github.com/ernest-edem](https://github.com/ernest-edem)
+**LinkedIn:** https://www.linkedin.com/in/ernest-edem-dzisah
 
-**Email:**
-[ernestedem.d@gmail.com](mailto:ernestedem.d@gmail.com)
+**Email:** [ernestedem.d@gmail.com](mailto:ernestedem.d@gmail.com)
 
 ---
 
-### ⚡ Currently Building
+## ⚡ Currently Building
 
-**LAMESE AI — an explainable, full-stack machine learning application for heart disease prediction.**
+**LAMESE AI** — an explainable, full-stack machine learning application for heart disease prediction.
 
 > Building practical AI systems, one project at a time.
+
 
